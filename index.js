@@ -8,3 +8,21 @@ export enum CartStatusEnum {
   quote_ordered = "quote_ordered",
   quote_expired = "quote_expired"
 }
+
+export enum CurrencyEnum {
+  sgd = "sgd",
+  idr = "idr",
+  usd = "usd",
+}
+
+export enum LocaleEnum {
+  en = "en",
+  id = "id",
+}
+
+export enum FieldTypeEnum {
+  text = "text",
+  textarea = "textarea",
+  dropdown = "dropdown",
+  password = "password"
+}
