@@ -1,0 +1,23 @@
+{
+  "name": "elg-base",
+  "version": "1.0.0",
+  "description": "elg base vars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ElectGoDev/electgo-base.git"
+  },
+  "keywords": [
+    "elg",
+    "base"
+  ],
+  "author": "didi.kusnadi@electgo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElectGoDev/electgo-base/issues"
+  },
+  "homepage": "https://github.com/ElectGoDev/electgo-base#readme"
+}
