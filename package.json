@@ -1,9 +1,9 @@
 {
   "name": "elg-base",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "elg base vars",
-  "main": "./dist/index.ts",
-  "module": "./dist/index.mjs",
+  "main": "./dist/index.d.ts",
+  "module": "./dist/index.d.mjs",
   "types": [
     "./dist/index.d.ts"
   ],
